@@ -6,7 +6,7 @@
 - Beginner-friendly data analysis projects
 - Dashboards and data visualizations
 - SQL challenges and reporting tools
-✨ "Data is a precious thing and will last longer than the systems themselves." 
+- ✨ "Data is a precious thing and will last longer than the systems themselves." 
 
 
 <!---

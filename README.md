@@ -2,7 +2,7 @@
 
 -🎓 B.Tech in Computer Science & Engineering | 💻 Aspiring Software             Developer  
 -👀 I’m interested in coding and building things
-📫 Reach me at: Shreya@gmail.com
+📫 Reach me at: shreyamishra2301@gmail.com
 
 ## 🧠 About Me 
 

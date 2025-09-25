@@ -1,15 +1,22 @@
-- 👋 Hi, I’m @shreyamishra2303
-- 👀 I’m interested in coding and building things
-- 🌱 I’m currently practicing data analytics projects using public dataset.
-- 🧠 Learning about data cleaning, visualization, and statistical analysis.
-- 🤝 I’m open to collaborating on:
-- Beginner-friendly data analysis projects
-- Dashboards and data visualizations
-- SQL challenges and reporting tools
-- ✨ "Data is a precious thing and will last longer than the systems themselves." 
+# 👩‍💻 Shreya Mishra
+
+-🎓 B.Tech in Computer Science & Engineering | 💻 Aspiring Software             Developer  
+-👀 I’m interested in coding and building things
+
+## 🧠 About Me 
+
+- 🎓 Graduated B.Tech CSE (2025) student from **Galgotias University**
+- 💻 Strong foundation in **Java**, **OOPs** and **Data Structures &             Algorithms**  
+- 🛠️ Passionate about solving real-world problems through logic and              automation  
+- 📊 Familiar with **Agile**, **Scrum**, and project management tools like       **Jira**  
+
+## 🛠️ Tech Stack
+
+- **Languages:** Java, Python, SQL  
+- **Tools & Frameworks:** VS Code, Git, Agile Tools (Jira)  
+- **Core Skills:** DSA, OOPs, Project Lifecycle Management  
+- **Other Interests:** Problem Solving, Team Collaboration, Self-Learning
+
+✨ "Building logic, one line at a time." 
 
 
-<!---
-shreyamishra2303/shreyamishra2303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
